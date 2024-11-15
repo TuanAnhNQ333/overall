@@ -1,0 +1,34 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "WhileDemo",
+      "request": "launch",
+      "mainClass": "WhileDemo",
+      "projectName": "java_62b91526"
+    },
+    {
+      "type": "java",
+      "name": "Name",
+      "request": "launch",
+      "mainClass": "Name",
+      "projectName": "java_62b91526"
+    },
+    {
+      "type": "java",
+      "name": "CheckNumber",
+      "request": "launch",
+      "mainClass": "CheckNumber",
+      "projectName": "java_62b91526"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/macbook/Documents/java/com/megabank",
+      "program": "/Users/macbook/Documents/java/com/megabank/build/Debug/outDebug"
+    }
+  ]
+}
